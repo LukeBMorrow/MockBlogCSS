@@ -1,0 +1,27 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+	width:700px;
+	margin:15px auto;
+	border:solid 20px #10101055;
+	padding:0 2.5%;
+}
+h3{/*date*/
+	color: #5020ffaa;
+	font-size:13px;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+h2{
+	font-family: 'Major Mono Display', monospace;
+	margin-top: 5px;
+}
+hr{
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+    margin-bottom: 10%;
+}
+.leftAccent{
+	padding-left: 5px;
+	border-left: solid 5px #cccccc55;
+}
